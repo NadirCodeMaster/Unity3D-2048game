@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/L5.txt">
+    <Files>
+      <File FileName="Assets/GameAssets/Scripts/GameplayManager.cs" Line="180" Column="41" />
+      <File FileName="Assets/Resources/L1.txt" Line="1000" Column="31" />
+      <File FileName="Assets/GameAssets/Scripts/Manager.cs" Line="12" Column="25" />
+      <File FileName="Assets/GameAssets/Scripts/MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameAssets/Scripts/PackSelectionScript.cs" Line="17" Column="71" />
+      <File FileName="Assets/GameAssets/Scripts/StageSelectionScript.cs" Line="17" Column="44" />
+      <File FileName="Assets/Resources/L2.txt" Line="1" Column="1" />
+      <File FileName="Assets/GameAssets/Scripts/CreateLevel.cs" Line="13" Column="9" />
+      <File FileName="Assets/Resources/L3.txt" Line="1" Column="1" />
+      <File FileName="Assets/Resources/L4.txt" Line="1" Column="1" />
+      <File FileName="Assets/Resources/L5.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
